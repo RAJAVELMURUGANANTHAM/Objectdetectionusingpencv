@@ -1,5 +1,7 @@
 Real-Time Object Detection using OpenCV and SSD MobileNet v3
-This Python script utilizes OpenCV's deep neural network module to perform real-time object detection using the SSD MobileNet v3 model trained on the COCO dataset. The program is capable of detecting various objects in images or videos, drawing bounding boxes around them, and labeling each detected object.
+
+
+   This Python script utilizes OpenCV's deep neural network module to perform real-time object detection using the SSD MobileNet v3 model trained on the COCO dataset. The program is capable of detecting various objects in images or videos, drawing bounding boxes around them, and labeling each detected object.
 
 Table of Contents
 Setup Instructions
